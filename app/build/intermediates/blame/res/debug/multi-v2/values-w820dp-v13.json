@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidStudioProjects\\TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values-w820dp\\dimen.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,115",
+                        "endColumns": "56,56",
+                        "endOffsets": "109,167"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,56",
+                        "endOffsets": "107,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
